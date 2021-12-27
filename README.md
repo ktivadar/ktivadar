@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my startup business and writing my final thesis about it.
 - 🌱 I’m currently learning modern IT engineering solutions / databases / top leading web technologies.
 <!--
-**tivadark/tivadark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ktivadar/ktivadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
