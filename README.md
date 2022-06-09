@@ -1,7 +1,7 @@
 ### Hi there, I'm Tivi 👋
 - 🔭 I’m currently working on my startup business and writing my final thesis about it.
 - 🌱 I’m currently learning modern IT engineering solutions / databases / top leading web technologies / DevOps.
-- :eyes: Interested in the latest Web 3.0 internet technologies; such as machine learning, artificial intelligence, and blockchain..
+- :eyes: Interested in the latest Web 3.0 internet technologies; such as blockchain. I'm also an enthusiastic in the fields of machine learning and artificial intelligence..
 
 ![](https://raw.githubusercontent.com/ktivadar/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ktivadar/github-stats/master/generated/languages.svg#gh-light-mode-only)
