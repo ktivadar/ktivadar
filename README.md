@@ -1,5 +1,4 @@
 ### Hi there, I'm Tivi 👋
-- 🔭 I’m currently working on my startup business and writing my final thesis about it.
 - 🌱 I’m currently learning modern IT engineering solutions / databases / top leading web technologies / DevOps.
 - :eyes: Interested in the latest Web 3.0 internet technologies; such as blockchain. I'm also an enthusiastic in the fields of machine learning and artificial intelligence..
 
@@ -11,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on my startup business and writing my final thesis about it.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
