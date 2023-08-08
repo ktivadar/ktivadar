@@ -1,5 +1,5 @@
 ### Hi there, I'm Tivi 👋
-- 🌱 Driven by a passion for technology, I am currently immersed in advancing my skills in the Ada programming language. Alongside this, my learning journey involves enhancing my understanding of modern IT engineering solutions, databases, and leading web technologies. I am also gaining insights into the practical application of DevOps, demonstrating my commitment to staying abreast of the latest industry trends and technologies.
+- 🌱 Driven by a passion for technology, I am currently immersed in advancing my skills in the Ada programming language. Alongside this, my learning journey involves enhancing my understanding of modern IT engineering solutions, databases, and leading web technologies. 
 - :eyes: I'm also an enthusiastic in the fields of machine learning and artificial intelligence..
 
 ![](https://raw.githubusercontent.com/ktivadar/github-stats/master/generated/overview.svg#gh-light-mode-only)
