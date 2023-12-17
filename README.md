@@ -1,6 +1,7 @@
 ### Hi there, I'm Tivi 👋
 - 🌱 Driven by a passion for technology, I am currently immersed in advancing my skills in the Ada programming language. 
 - :eyes: I'm also an enthusiastic in the fields of machine learning and artificial intelligence..
+- 🛠️ I am passionate about home automation and DIY projects, always seeking innovative ways to integrate technology into everyday life.
 
 ![](https://raw.githubusercontent.com/ktivadar/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/ktivadar/github-stats/master/generated/languages.svg#gh-light-mode-only)
